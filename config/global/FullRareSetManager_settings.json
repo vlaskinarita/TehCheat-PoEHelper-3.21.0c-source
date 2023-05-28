@@ -1,0 +1,54 @@
+{
+  "AllowedStashTabs": [],
+  "SetsAmountStatisticsText": {
+    "Value": "Total sets sold to vendor: N/A"
+  },
+  "SetsAmountStatistics": 0,
+  "PositionX": {
+    "Value": 0.0
+  },
+  "PositionY": {
+    "Value": 365.0
+  },
+  "AllowIdentified": false,
+  "ShowOnlyWithInventory": false,
+  "HideWhenLeftPanelOpened": false,
+  "ShowRegalSets": false,
+  "WeaponTypePriority": {
+    "Value": "Two handed"
+  },
+  "MaxSets": {
+    "Value": 0
+  },
+  "DropToInventoryKey": {
+    "Value": 116
+  },
+  "ExtraDelay": {
+    "Value": 50
+  },
+  "EnableBorders": false,
+  "InventBorders": false,
+  "BorderWidth": {
+    "Value": 5
+  },
+  "BorderOversize": {
+    "Value": 5
+  },
+  "BorderAutoResize": false,
+  "TextSize": {
+    "Value": 20
+  },
+  "TextOffsetX": {
+    "Value": 0.0
+  },
+  "TextOffsetY": {
+    "Value": -20.0
+  },
+  "IgnoreOneHanded": false,
+  "CalcByFreeSpace": false,
+  "IgnoreElderShaper": true,
+  "ShowRedRectangleAroundIgnoredItems": true,
+  "AutoSell": true,
+  "Enable": false,
+  "OnlyAllowedStashTabs": false
+}

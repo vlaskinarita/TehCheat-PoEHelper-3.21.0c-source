@@ -1,0 +1,20 @@
+{
+  "DetonateKey": {
+    "Value": 68
+  },
+  "DetonateDelay": {
+    "Value": 300
+  },
+  "DetonateDist": {
+    "Value": 75.0
+  },
+  "CurrentAreaPct": {
+    "Value": 0.0
+  },
+  "TriggerReason": {
+    "Value": "a2"
+  },
+  "FilterNullAction": false,
+  "Debug": false,
+  "Enable": false
+}

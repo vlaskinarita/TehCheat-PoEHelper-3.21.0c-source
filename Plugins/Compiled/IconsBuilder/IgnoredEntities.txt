@@ -1,0 +1,14 @@
+#default ignores
+Metadata/Monsters/Frog/FrogGod/SilverPool
+Metadata/MiscellaneousObjects/WorldItem
+Metadata/Pet/Weta/Basic
+Metadata/Monsters/Daemon/SilverPoolChillDaemon
+Metadata/Monsters/Daemon
+Metadata/Monsters/Frog/FrogGod/SilverOrbFromMonsters
+Metadata/Terrain/Labyrinth/Objects/Puzzle_Parts/TimerGears
+Metadata/Chests/DelveChests/DelveAzuriteVeinEncounter
+Metadata/Chests/DelveChests/DelveAzuriteVeinEncounterNoDrops
+#Delirium Ignores
+Metadata/Monsters/InvisibleFire/InvisibleFireAfflictionCorpseDegen
+Metadata/Monsters/InvisibleFire/InvisibleFireAfflictionDemonColdDegenUnique
+Metadata/Monsters/AtlasExiles/CrusaderInfluenceMonsters/CrusaderArcaneRune

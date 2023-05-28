@@ -1,0 +1,81 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <AssemblyName>ExileCore</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <UseWindowsForms>True</UseWindowsForms>
+    <TargetFramework>netcoreapp6.0</TargetFramework>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>11.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="ClickableTransparentOverlay">
+      <HintPath>ClickableTransparentOverlay.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpDX.Mathematics">
+      <HintPath>SharpDX.Mathematics.dll</HintPath>
+    </Reference>
+    <Reference Include="Serilog">
+      <HintPath>Serilog.dll</HintPath>
+    </Reference>
+    <Reference Include="ImGui.NET">
+      <HintPath>ImGui.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="Vanara.PInvoke.User32">
+      <HintPath>Vanara.PInvoke.User32.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="GameOffsets">
+      <HintPath>GameOffsets.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpDX.XAudio2">
+      <HintPath>SharpDX.XAudio2.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpDX">
+      <HintPath>SharpDX.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Build.Utilities.Core" />
+    <Reference Include="Microsoft.Build.Framework" />
+    <Reference Include="Microsoft.Build" />
+    <Reference Include="MoreLinq">
+      <HintPath>MoreLinq.dll</HintPath>
+    </Reference>
+    <Reference Include="Vanara.PInvoke.DwmApi">
+      <HintPath>Vanara.PInvoke.DwmApi.dll</HintPath>
+    </Reference>
+    <Reference Include="Vanara.PInvoke.Kernel32">
+      <HintPath>Vanara.PInvoke.Kernel32.dll</HintPath>
+    </Reference>
+    <Reference Include="ProcessMemoryUtilities">
+      <HintPath>ProcessMemoryUtilities.dll</HintPath>
+    </Reference>
+    <Reference Include="Vanara.PInvoke.Shared">
+      <HintPath>Vanara.PInvoke.Shared.dll</HintPath>
+    </Reference>
+    <Reference Include="Vanara.Core">
+      <HintPath>Vanara.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Caching" />
+    <Reference Include="SixLabors.ImageSharp">
+      <HintPath>SixLabors.ImageSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="JM.LinqFaster">
+      <HintPath>JM.LinqFaster.dll</HintPath>
+    </Reference>
+    <Reference Include="Vanara.PInvoke.Multimedia">
+      <HintPath>Vanara.PInvoke.Multimedia.dll</HintPath>
+    </Reference>
+    <Reference Include="Serilog.Sinks.File">
+      <HintPath>Serilog.Sinks.File.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Build.Locator">
+      <HintPath>Microsoft.Build.Locator.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

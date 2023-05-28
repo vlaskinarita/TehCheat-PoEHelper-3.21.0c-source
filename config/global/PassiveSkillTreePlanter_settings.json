@@ -1,0 +1,38 @@
+{
+  "BorderWidth": {
+    "Value": 1
+  },
+  "LineWidth": {
+    "Value": 3
+  },
+  "LineColor": "808080ff",
+  "SelectedURLFile": "",
+  "SelectedURL": "",
+  "SelectedTreeName": "",
+  "PickedBorderWidth": {
+    "Value": 1
+  },
+  "UnpickedBorderWidth": {
+    "Value": 3
+  },
+  "WrongPickedBorderWidth": {
+    "Value": 3
+  },
+  "PickedBorderColor": "00000000",
+  "UnpickedBorderColor": "008000ff",
+  "WrongPickedBorderColor": "ff0000ff",
+  "SelectedBuild": {
+    "Notes": "",
+    "Trees": [],
+    "BuildLink": "",
+    "SelectedIndex": 0
+  },
+  "SelectedBuildCreating": {
+    "Notes": "",
+    "Trees": [],
+    "BuildLink": "",
+    "SelectedIndex": 0
+  },
+  "EnableEzTreeChanger": true,
+  "Enable": false
+}

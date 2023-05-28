@@ -1,0 +1,99 @@
+{
+  "UseNewMemoryBackend": {
+    "Value": true
+  },
+  "Profiles": {
+    "Value": "global"
+  },
+  "Theme": {
+    "Value": "Default"
+  },
+  "MainMenuKeyToggle": {
+    "Value": 123
+  },
+  "PluginSettings": {
+    "MultiThreadLoadPlugins": {
+      "Value": false
+    },
+    "AvoidLockingDllFiles": {
+      "Value": false
+    },
+    "PreferSourcePlugins": {
+      "Value": false
+    }
+  },
+  "PerformanceSettings": {
+    "AddedMultiThread": {
+      "Value": false
+    },
+    "CoroutineMultiThreading": {
+      "Value": false
+    },
+    "ParseEntitiesInMultiThread": {
+      "Value": false
+    },
+    "CollectDebugInformation": {
+      "Value": true
+    },
+    "Threads": {
+      "Value": 2
+    },
+    "TargetFps": {
+      "Value": 60
+    },
+    "TargetParallelCoroutineFps": {
+      "Value": 60
+    },
+    "EntitiesFps": {
+      "Value": 60
+    },
+    "ParseServerEntities": {
+      "Value": false
+    },
+    "CollectEntitiesInParallelWhenMoreThanX": {
+      "Value": false
+    },
+    "LimitDrawPlot": {
+      "Value": 0.2
+    }
+  },
+  "EnableVSync": {
+    "Value": false
+  },
+  "Font": {
+    "Value": "Default:13"
+  },
+  "FontSize": {
+    "Value": 13
+  },
+  "ApplySelectedFontGlobally": {
+    "Value": true
+  },
+  "MouseCursorScale": {
+    "Value": 1.0
+  },
+  "Volume": {
+    "Value": 100
+  },
+  "ShowDebugWindow": {
+    "Value": false
+  },
+  "ShowLogWindow": {
+    "Value": false
+  },
+  "ShowDemoWindow": {
+    "Value": false
+  },
+  "Enable": {
+    "Value": false
+  },
+  "ForceForeground": {
+    "Value": false
+  },
+  "HideAllDebugging": {
+    "Value": false
+  },
+  "DisableBlackBarAdjustment": {
+    "Value": false
+  }
+}

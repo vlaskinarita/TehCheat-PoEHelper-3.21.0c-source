@@ -1,0 +1,10 @@
+{
+  "DrawMonsters": true,
+  "ZForText": {
+    "Value": -10.0
+  },
+  "DrawOnlyOnLargeMap": true,
+  "MultiThreading": false,
+  "DrawNotValid": false,
+  "Enable": true
+}

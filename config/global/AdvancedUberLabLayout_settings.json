@@ -1,0 +1,27 @@
+{
+  "CurrentImageDateDay": -1,
+  "ShowImage": true,
+  "LabType": {
+    "Value": null
+  },
+  "AutoLabDetection": true,
+  "X": {
+    "Value": 500.0
+  },
+  "Y": {
+    "Value": 0.0
+  },
+  "Transparency": {
+    "Value": 255.0
+  },
+  "Size": {
+    "Value": 100.0
+  },
+  "ToggleDraw": {
+    "Value": 46
+  },
+  "Reload": {
+    "Value": 45
+  },
+  "Enable": false
+}

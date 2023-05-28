@@ -1,0 +1,78 @@
+2023-04-28 16:05:01.497 +03:00 [INF] =============== Start hud at 4/28/2023 4:05:01 PM ===============
+2023-04-28 16:05:01.529 +03:00 [INF] PerfTimer =-> Create new offsets (3.6188 ms) Thread #[1]
+2023-04-28 16:05:01.851 +03:00 [INF] PerfTimer =-> Load manual fonts (0.0732 ms) Thread #[1]
+2023-04-28 16:05:01.851 +03:00 [INF] PerfTimer =-> DX11 Load (0.8736 ms) Thread #[1]
+2023-04-28 16:05:02.459 +03:00 [INF] PerfTimer =-> Load files from memory (49.997 ms) Thread #[1]
+2023-04-28 16:05:02.536 +03:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2023-04-28 16:05:02.540 +03:00 [WRN] <0, 0> not supported for menu now. Ask developers to add this type.
+2023-04-28 16:05:02.541 +03:00 [WRN] <0, 0> not supported for menu now. Ask developers to add this type.
+2023-04-28 16:05:02.545 +03:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2023-04-28 16:05:02.580 +03:00 [WRN] 0 not supported for menu now. Ask developers to add this type.
+2023-04-28 16:05:02.598 +03:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2023-04-28 16:05:02.601 +03:00 [WRN] 16 not supported for menu now. Ask developers to add this type.
+2023-04-28 16:05:02.617 +03:00 [WRN] ExileCore.Shared.Nodes.RangeNode`1[System.Byte] not supported for menu now. Ask developers to add this type.
+2023-04-28 16:05:02.617 +03:00 [WRN] ExileCore.Shared.Nodes.RangeNode`1[System.Byte] not supported for menu now. Ask developers to add this type.
+2023-04-28 16:05:02.617 +03:00 [WRN] ExileCore.Shared.Nodes.RangeNode`1[System.Byte] not supported for menu now. Ask developers to add this type.
+2023-04-28 16:05:02.688 +03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-04-28 16:05:02.688 +03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-04-28 16:05:02.688 +03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-04-28 16:05:02.688 +03:00 [WRN] PassiveSkillTreePlanter.TreeConfig+SkillTreeData not supported for menu now. Ask developers to add this type.
+2023-04-28 16:05:02.688 +03:00 [WRN] PassiveSkillTreePlanter.TreeConfig+SkillTreeData not supported for menu now. Ask developers to add this type.
+2023-04-28 16:05:02.695 +03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-04-28 16:05:02.695 +03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-04-28 16:05:02.695 +03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-04-28 16:05:02.695 +03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-04-28 16:05:02.695 +03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-04-28 16:05:02.695 +03:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-04-28 16:05:02.695 +03:00 [WRN] <0, 0> not supported for menu now. Ask developers to add this type.
+2023-04-28 16:05:02.695 +03:00 [WRN] PickIt.PickItSettings+FRSMOverrides not supported for menu now. Ask developers to add this type.
+2023-04-28 16:05:02.739 +03:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2023-04-28 16:05:03.484 +03:00 [INF] PerfTimer =-> Plugin loader (995.3962 ms) Thread #[1]
+2023-04-28 16:05:03.594 +03:00 [INF] Pattern: Game State -> : Time: 11.9146 ms. Offset:[1017107] Started searching offset with:0
+2023-04-28 16:05:03.594 +03:00 [INF] Pattern: Area change -> : Time: 35.3801 ms. Offset:[9537675] Started searching offset with:6881280
+2023-04-28 16:05:03.594 +03:00 [INF] Pattern: BlackBarSize -> : Time: 44.4865 ms. Offset:[3705365] Started searching offset with:0
+2023-04-28 16:05:03.594 +03:00 [INF] Pattern: File Root -> : Time: 49.7958 ms. Offset:[23841897] Started searching offset with:19726336
+2023-04-28 16:05:03.594 +03:00 [INF] Pattern: DiagnosticInfoType -> : Time: 108.2407 ms. Offset:[13586127] Started searching offset with:600000
+2023-04-28 16:05:03.594 +03:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 231.243 ms. Offset:[20424408] Started searching offset with:0
+2023-04-28 16:05:03.594 +03:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 232.7526 ms. Offset:[20424446] Started searching offset with:0
+2023-04-28 16:05:03.594 +03:00 [INF] Plugins from directory AdvancedTooltip loaded in 15 ms.
+2023-04-28 16:05:03.594 +03:00 [INF] Plugins from directory AdvancedUberLabLayout loaded in 2 ms.
+2023-04-28 16:05:03.594 +03:00 [INF] Plugins from directory AutoOpen loaded in 4 ms.
+2023-04-28 16:05:03.595 +03:00 [INF] Plugins from directory AutoQuit loaded in 3 ms.
+2023-04-28 16:05:03.595 +03:00 [INF] Plugins from directory BasicFlaskRoutine loaded in 14 ms.
+2023-04-28 16:05:03.595 +03:00 [INF] Plugins from directory BuffUtil loaded in 5 ms.
+2023-04-28 16:05:03.595 +03:00 [INF] Plugins from directory DelveWalls loaded in 3 ms.
+2023-04-28 16:05:03.595 +03:00 [INF] Plugins from directory DevTree loaded in 2 ms.
+2023-04-28 16:05:03.595 +03:00 [INF] Plugins from directory DPSMeter loaded in 3 ms.
+2023-04-28 16:05:03.595 +03:00 [INF] Plugins from directory EliteBar loaded in 9 ms.
+2023-04-28 16:05:03.595 +03:00 [INF] Plugins from directory FullRareSetManager loaded in 10 ms.
+2023-04-28 16:05:03.595 +03:00 [INF] Plugins from directory HealthBars loaded in 11 ms.
+2023-04-28 16:05:03.739 +03:00 [INF] Plugins from directory HeistIcons loaded in 2 ms.
+2023-04-28 16:05:03.740 +03:00 [INF] Plugins from directory HighlightedItems loaded in 2 ms.
+2023-04-28 16:05:03.740 +03:00 [INF] Plugins from directory IconsBuilder loaded in 9 ms.
+2023-04-28 16:05:03.740 +03:00 [INF] Plugins from directory KillCounter loaded in 3 ms.
+2023-04-28 16:05:03.740 +03:00 [INF] Plugins from directory MapsExchange loaded in 6 ms.
+2023-04-28 16:05:03.740 +03:00 [INF] Plugins from directory MineDetonator loaded in 1 ms.
+2023-04-28 16:05:03.740 +03:00 [INF] Plugins from directory MinimapIcons loaded in 60 ms.
+2023-04-28 16:05:03.740 +03:00 [INF] Plugins from directory MiscInformation loaded in 4 ms.
+2023-04-28 16:05:03.740 +03:00 [INF] Plugins from directory PassiveSkillTreePlanter loaded in 4 ms.
+2023-04-28 16:05:03.740 +03:00 [INF] Plugins from directory PickIt loaded in 6 ms.
+2023-04-28 16:05:03.740 +03:00 [INF] Plugins from directory PreloadAlert loaded in 12 ms.
+2023-04-28 16:05:03.740 +03:00 [INF] Plugins from directory Radar loaded in 25 ms.
+2023-04-28 16:05:03.740 +03:00 [INF] Plugins from directory Skill DPS loaded in 2 ms.
+2023-04-28 16:05:03.740 +03:00 [INF] Plugins from directory Stashie loaded in 2 ms.
+2023-04-28 16:05:03.763 +03:00 [INF] Plugins from directory XPBar loaded in 1 ms.
+2023-04-28 16:05:03.763 +03:00 [INF] MiscInformation -> Initialise time: 1.1169 ms.
+2023-04-28 16:05:03.763 +03:00 [INF] PreloadAlert -> Initialise time: 0.6086 ms.
+2023-04-28 16:05:03.763 +03:00 [INF] HealthBars -> Initialise time: 0.7839 ms.
+2023-04-28 16:05:03.763 +03:00 [INF] MinimapIcons -> Initialise time: 0.0122 ms.
+2023-04-28 16:05:03.763 +03:00 [INF] HighlightedItems -> Initialise time: 2.3922 ms.
+2023-04-28 16:05:03.763 +03:00 [INF] IconsBuilder -> Initialise time: 1.5135 ms.
+2023-04-28 16:05:03.763 +03:00 [INF] Radar -> Initialise time: 0.0019 ms.
+2023-04-28 16:05:03.763 +03:00 [INF] Skill_DPS.Core -> Initialise time: 0.0016 ms.
+2023-04-28 16:05:03.763 +03:00 [INF] XPBar -> Initialise time: 0.0125 ms.
+2023-04-28 16:05:04.541 +03:00 [INF] PerfTimer =-> Preload stats and mods (2081.5051 ms) Thread #[19]
+2023-04-28 16:05:07.460 +03:00 [INF] GetAllFiles loaded in 47ms
+2023-04-28 16:05:10.503 +03:00 [INF] HUD loaded in 2083.9498 ms.
+2023-04-28 16:05:12.692 +03:00 [INF] PassiveSkillTree: Write your skill tree url to txt file and place it to Build folder.
+2023-04-28 16:17:43.909 +03:00 [INF] =============== Close hud at 4/28/2023 4:17:43 PM ===============

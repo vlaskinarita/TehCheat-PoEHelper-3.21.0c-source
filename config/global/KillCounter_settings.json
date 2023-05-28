@@ -1,0 +1,15 @@
+{
+  "ShowInTown": false,
+  "ShowDetail": true,
+  "TextColor": "dcbe82ff",
+  "BackgroundColor": "000000ff",
+  "LabelTextSize": {
+    "Value": 16
+  },
+  "KillsTextSize": {
+    "Value": 16
+  },
+  "UseImguiForDraw": true,
+  "MultiThreading": false,
+  "Enable": false
+}

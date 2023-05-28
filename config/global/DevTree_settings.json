@@ -1,0 +1,25 @@
+{
+  "Opened": false,
+  "ToggleWindowState": false,
+  "ToggleWindow": false,
+  "ToggleWindowKey": {
+    "Value": 105
+  },
+  "DebugNearestEnts": {
+    "Value": 102
+  },
+  "DebugHoverItem": {
+    "Value": 101
+  },
+  "NearestEntsRange": {
+    "Value": 300
+  },
+  "LimitForCollection": {
+    "Value": 500
+  },
+  "LimitEntriesDrawn": true,
+  "EntriesDrawLimit": {
+    "Value": 500
+  },
+  "Enable": false
+}

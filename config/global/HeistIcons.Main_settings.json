@@ -1,0 +1,22 @@
+{
+  "MapIconSize": {
+    "Value": 32
+  },
+  "WorldIcon": true,
+  "WorldIconSize": {
+    "Value": 120
+  },
+  "TextEnable": true,
+  "UseDefaultText": false,
+  "BackgroundWidth": {
+    "Value": 1.5
+  },
+  "BackgroundHeight": {
+    "Value": 1.4
+  },
+  "TextColor": "ffffffff",
+  "TextBackgroundColor": "006400ff",
+  "TextBorderColor": "000000ff",
+  "MultiThreading": true,
+  "Enable": false
+}

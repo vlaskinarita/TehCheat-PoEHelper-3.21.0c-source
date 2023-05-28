@@ -1,0 +1,89 @@
+{
+  "IgnoredCells": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "Enable": true,
+  "DumpButtonEnable": true,
+  "ShowStackSizes": true,
+  "ShowStackCountWithSize": true,
+  "HotKey": {
+    "Value": 112
+  },
+  "ExtraDelay": {
+    "Value": 20
+  },
+  "UseThreadSleep": false,
+  "IdleMouseDelay": {
+    "Value": 200
+  },
+  "CancelWithRightMouseButton": true
+}

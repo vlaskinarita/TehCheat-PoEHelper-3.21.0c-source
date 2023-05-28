@@ -1,0 +1,44 @@
+{
+  "Enable": false,
+  "Debug": false,
+  "FlaskSettings": [
+    {
+      "Hotkey": {
+        "Value": 49
+      }
+    },
+    {
+      "Hotkey": {
+        "Value": 50
+      }
+    },
+    {
+      "Hotkey": {
+        "Value": 51
+      }
+    },
+    {
+      "Hotkey": {
+        "Value": 52
+      }
+    },
+    {
+      "Hotkey": {
+        "Value": 53
+      }
+    }
+  ],
+  "TicksPerSecond": {
+    "Value": 10
+  },
+  "LoadedProfile": null,
+  "LastSettingPos": {
+    "X": 0.0,
+    "Y": 0.0
+  },
+  "LastSettingSize": {
+    "X": 0.0,
+    "Y": 0.0
+  },
+  "ShowSettings": false
+}

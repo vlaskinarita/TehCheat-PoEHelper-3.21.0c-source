@@ -1,0 +1,51 @@
+{
+  "Enable": true,
+  "CustomScale": {
+    "Value": 1.0
+  },
+  "DrawWalkableMap": true,
+  "TerrainColor": "969696ff",
+  "MaximumMapTextureDimension": {
+    "Value": 4096
+  },
+  "MaximumPathCount": {
+    "Value": 1000
+  },
+  "PathfindingSettings": {
+    "ShowPathsToTargetsOnMap": true,
+    "DefaultMapPathColor": "008000ff",
+    "UseRainbowColorsForMapPaths": true,
+    "ShowAllTargets": false,
+    "ShowSelectedTargets": true,
+    "EnableTargetNameBackground": true,
+    "TargetNameColor": "ee82eeff",
+    "WorldPathSettings": {
+      "ShowPathsToTargets": true,
+      "ShowPathsToTargetsOnlyWithClosedMap": true,
+      "UseRainbowColorsForPaths": true,
+      "DefaultPathColor": "ff0000ff",
+      "OffsetPaths": true,
+      "PathThickness": {
+        "Value": 1.0
+      },
+      "DrawEveryNthSegment": {
+        "Value": 1
+      }
+    }
+  },
+  "Debug": {
+    "DrawHeightMap": false,
+    "DisableHeightAdjust": false,
+    "SkipNeighborFill": false,
+    "SkipEdgeDetector": false,
+    "SkipRecoloring": false,
+    "DisableDrawRegionLimiting": false,
+    "IgnoreFullscreenPanels": false,
+    "MapCenterOffsetX": {
+      "Value": 0
+    },
+    "MapCenterOffsetY": {
+      "Value": 0
+    }
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "Enable": false,
+  "PickUpKey": {
+    "Value": 112
+  },
+  "PickupRange": {
+    "Value": 600
+  },
+  "ChestRange": {
+    "Value": 500
+  },
+  "ExtraDelay": {
+    "Value": 0
+  },
+  "ShaperItems": true,
+  "ElderItems": true,
+  "HunterItems": true,
+  "VeiledItems": true,
+  "CrusaderItems": true,
+  "WarlordItems": true,
+  "RedeemerItems": true,
+  "FracturedItems": true,
+  "HeistItems": true,
+  "Rares": true,
+  "RareJewels": true,
+  "RareRings": true,
+  "RareRingsilvl": {
+    "Value": 1
+  },
+  "RareAmulets": true,
+  "RareAmuletsilvl": {
+    "Value": 1
+  },
+  "RareBelts": true,
+  "RareBeltsilvl": {
+    "Value": 1
+  },
+  "RareGloves": false,
+  "RareGlovesilvl": {
+    "Value": 1
+  },
+  "RareBoots": false,
+  "RareBootsilvl": {
+    "Value": 1
+  },
+  "RareHelmets": false,
+  "RareHelmetsilvl": {
+    "Value": 1
+  },
+  "RareArmour": false,
+  "RareArmourilvl": {
+    "Value": 1
+  },
+  "RareShield": false,
+  "RareShieldilvl": {
+    "Value": 1
+  },
+  "RareShieldWidth": {
+    "Value": 2
+  },
+  "RareShieldHeight": {
+    "Value": 4
+  },
+  "RareWeapon": false,
+  "RareWeaponWidth": {
+    "Value": 2
+  },
+  "RareWeaponHeight": {
+    "Value": 4
+  },
+  "RareWeaponilvl": {
+    "Value": 1
+  },
+  "FullRareSetManagerOverrideAllowIdentifiedItems": false,
+  "LinkSocketRgbEmptyNode": null,
+  "Sockets": true,
+  "TotalSockets": {
+    "Value": 6
+  },
+  "Links": true,
+  "LargestLink": {
+    "Value": 6
+  },
+  "RGB": true,
+  "RGBWidth": {
+    "Value": 2
+  },
+  "RGBHeight": {
+    "Value": 4
+  },
+  "AllOverridEmptyNode": null,
+  "PickUpEverything": false,
+  "AllDivs": true,
+  "AllCurrency": true,
+  "IgnoreScrollOfWisdom": true,
+  "AllUniques": true,
+  "Maps": true,
+  "MapTier": {
+    "Value": 1
+  },
+  "UniqueMap": true,
+  "MapFragments": true,
+  "Gems": true,
+  "GemQuality": {
+    "Value": 1
+  },
+  "Flasks": true,
+  "FlasksQuality": {
+    "Value": 1
+  },
+  "QuestItems": true,
+  "GroundChests": false,
+  "LeftClickToggleNode": true,
+  "OverrideItemPickup": false,
+  "NormalRuleFile": "",
+  "MagicRuleFile": "",
+  "RareRuleFile": "",
+  "UniqueRuleFile": "",
+  "WeightRuleFile": "",
+  "IgnoreRuleFile": "",
+  "MoveInventoryView": false,
+  "ShowInventoryView": true,
+  "InventorySlotsVector2": {
+    "X": 0.0,
+    "Y": 0.0
+  },
+  "MouseSpeed": {
+    "Value": 1.0
+  },
+  "ReturnMouseToBeforeClickPosition": true,
+  "TimeBeforeNewClick": {
+    "Value": 500
+  },
+  "UseWeight": false,
+  "LazyLooting": false,
+  "LazyLootingPauseKey": {
+    "Value": 32
+  },
+  "FullRareSetManagerOverride": false,
+  "FullRareSetManagerPickupOverrides": {
+    "Weapons": -1,
+    "Helmets": -1,
+    "BodyArmors": -1,
+    "Gloves": -1,
+    "Boots": -1,
+    "Belts": -1,
+    "Amulets": -1,
+    "Rings": -1,
+    "MinItemLevel": 60,
+    "MaxItemLevel": 74
+  }
+}

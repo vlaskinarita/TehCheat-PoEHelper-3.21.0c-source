@@ -1,0 +1,45 @@
+{
+  "Enable": false,
+  "LimitCoroutine": {
+    "Value": 50
+  },
+  "Space": {
+    "Value": 20
+  },
+  "X": {
+    "Value": 0
+  },
+  "Y": {
+    "Value": 0
+  },
+  "Width": {
+    "Value": 100
+  },
+  "Height": {
+    "Value": 20
+  },
+  "BorderColor": "000000ff",
+  "ImguiRenderText": true,
+  "RefreshEntities": {},
+  "StartTextX": {
+    "Value": 0
+  },
+  "StartTextY": {
+    "Value": 0
+  },
+  "NormalMonster": "ff0000ff",
+  "MagicMonster": "0000cdff",
+  "RareMonster": "ffff00ff",
+  "UniqueMonster": "ffa500ff",
+  "ShowWhite": false,
+  "ShowMagic": false,
+  "ShowRare": true,
+  "ShowUnique": true,
+  "TextColor": "ffffffff",
+  "UseImguiForDraw": false,
+  "ImguiDrawBg": "000000ff",
+  "Test": {
+    "Value": 1.0
+  },
+  "MultiThreading": false
+}

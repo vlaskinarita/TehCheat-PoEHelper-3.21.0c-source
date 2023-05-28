@@ -1,0 +1,47 @@
+{
+  "MapStashAmount": {},
+  "MapRegionsAmount": {},
+  "ShowExchange": true,
+  "BordersWidth": {
+    "Value": 3
+  },
+  "Spacing": {
+    "Value": 1.0
+  },
+  "ShowPenalty": true,
+  "TextSize": {
+    "Value": 30.0
+  },
+  "ShowAmount": true,
+  "WhiteMapColor": "ffffffff",
+  "YellowMapColor": "ffff00ff",
+  "RedMapColor": "ff4c4cff",
+  "ShowOnAtlas": true,
+  "AtlasNote": null,
+  "MapTabNode": {
+    "Value": 0
+  },
+  "ShowUnCompleted": true,
+  "UnCompletedTextTransparency": {
+    "Value": 255
+  },
+  "UnCompletedTextBg": "000000ff",
+  "UnCompletedFilledCircle": true,
+  "UnCompletedFillColor": "000000bf",
+  "ShowCompleted": true,
+  "CompletedTextTransparency": {
+    "Value": 255
+  },
+  "CompletedTextBg": "000000bf",
+  "CompletedFilledCircle": true,
+  "CompletedFillColor": "ff00003b",
+  "ShowBonusCompleted": true,
+  "BonusCompletedTextTransparency": {
+    "Value": 100
+  },
+  "BonusCompletedTextBg": "0000007f",
+  "BonusCompletedFilledCircle": true,
+  "BonusCompletedFillColor": "19e51902",
+  "ShowBuyButton": true,
+  "Enable": false
+}

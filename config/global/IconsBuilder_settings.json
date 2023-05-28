@@ -1,0 +1,60 @@
+{
+  "SizeDefaultIcon": 16.0,
+  "SizeNpcIcon": {
+    "Value": 10
+  },
+  "SizeEntityWhiteIcon": {
+    "Value": 10
+  },
+  "SizeEntityMagicIcon": {
+    "Value": 10
+  },
+  "SizeEntityRareIcon": {
+    "Value": 10
+  },
+  "SizeEntityUniqueIcon": {
+    "Value": 10
+  },
+  "SizeEntityProximityMonsterIcon": {
+    "Value": 10
+  },
+  "SizeBreachChestIcon": {
+    "Value": 10
+  },
+  "SizeChestIcon": {
+    "Value": 10
+  },
+  "ShowSmallChest": false,
+  "SizeSmallChestIcon": {
+    "Value": 10
+  },
+  "SizeMiscIcon": {
+    "Value": 10
+  },
+  "SizeShrineIcon": {
+    "Value": 10
+  },
+  "SecondaryIconSize": {
+    "Value": 10
+  },
+  "HideSize": {
+    "Value": 1.0
+  },
+  "LogDebugInformation": true,
+  "Reparse": {},
+  "MultiThreading": false,
+  "MultiThreadingWhenEntityMoreThan": {
+    "Value": 10
+  },
+  "HidePlayers": false,
+  "HideMinions": false,
+  "DeliriumText": false,
+  "HeistText": true,
+  "HideBurriedMonsters": false,
+  "ShowWhiteMonsterName": false,
+  "ShowMagicMonsterName": false,
+  "ShowRareMonsterName": false,
+  "ShowUniqueMonsterName": false,
+  "ReplaceMonsterNameWithArchnemesis": false,
+  "Enable": true
+}

@@ -1,0 +1,106 @@
+{
+  "AllStashNames": [],
+  "CustomFilterOptions": {},
+  "CustomRefillOptions": {},
+  "DropHotkey": {
+    "Value": 114
+  },
+  "SwitchFilterhotkey": {
+    "Value": 115
+  },
+  "ExtraDelay": {
+    "Value": 0
+  },
+  "HoverItemDelay": {
+    "Value": 5
+  },
+  "StashItemDelay": {
+    "Value": 5
+  },
+  "BlockInput": false,
+  "VisitTabWhenDone": false,
+  "TabToVisitWhenDone": {
+    "Value": 0
+  },
+  "BackToOriginalTab": false,
+  "RefillCurrency": false,
+  "CurrencyStashTab": {
+    "Value": null,
+    "Index": 0
+  },
+  "AllowHaveMore": false,
+  "AlwaysUseArrow": false,
+  "Enable": false,
+  "IgnoredCells": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "Enable": false,
+  "ShowInTown": false,
+  "DpsFontColor": "dcbe82ff",
+  "PeakFontColor": "dcbe82ff",
+  "BackgroundColor": "000000ff",
+  "ClearNode": {},
+  "ShowAOE": true,
+  "ShowCurrentHitDamage": true,
+  "HasCullingStrike": false,
+  "UpdateTime": {
+    "Value": 100
+  },
+  "MultiThreading": false
+}

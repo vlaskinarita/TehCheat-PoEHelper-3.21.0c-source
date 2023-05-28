@@ -1,0 +1,106 @@
+{
+  "Enable": false,
+  "BloodRage": false,
+  "BloodRageKey": {
+    "Value": 69
+  },
+  "BloodRageMaxHP": {
+    "Value": 100
+  },
+  "BloodRageMaxMP": {
+    "Value": 100
+  },
+  "SteelSkin": false,
+  "SteelSkinKey": {
+    "Value": 87
+  },
+  "SteelSkinMaxHP": {
+    "Value": 90
+  },
+  "ImmortalCall": false,
+  "ImmortalCallKey": {
+    "Value": 84
+  },
+  "ImmortalCallMaxHP": {
+    "Value": 50
+  },
+  "MoltenShell": false,
+  "MoltenShellKey": {
+    "Value": 81
+  },
+  "MoltenShellMaxHP": {
+    "Value": 50
+  },
+  "PhaseRun": false,
+  "PhaseRunKey": {
+    "Value": 82
+  },
+  "PhaseRunMaxHP": {
+    "Value": 90
+  },
+  "PhaseRunMinMoveTime": {
+    "Value": 0
+  },
+  "PhaseRunMinBVStacks": {
+    "Value": 0
+  },
+  "WitheringStep": false,
+  "WitheringStepKey": {
+    "Value": 82
+  },
+  "WitheringStepMaxHP": {
+    "Value": 90
+  },
+  "WitheringStepMinMoveTime": {
+    "Value": 0
+  },
+  "Berserk": false,
+  "BerserkKey": {
+    "Value": 82
+  },
+  "BerserkMinRage": {
+    "Value": 5
+  },
+  "BerserkNearbyEnemiesCount": {
+    "Value": 1
+  },
+  "BerserkUseOnUniqueBoss": true,
+  "Warcry": false,
+  "WarcryKey": {
+    "Value": 82
+  },
+  "WarCryMinRage": {
+    "Value": 0
+  },
+  "WarCryMaxRage": {
+    "Value": 24
+  },
+  "WarcryNearbyEnemiesCount": {
+    "Value": 1
+  },
+  "WarcryUseOnUniqueBoss": true,
+  "WarcryUseAlways": false,
+  "BladeFlurry": false,
+  "BladeFlurryMinCharges": {
+    "Value": 6
+  },
+  "BladeFlurryUseLeftClick": false,
+  "BladeFlurryWaitForInfused": true,
+  "ScourgeArrow": false,
+  "ScourgeArrowMinCharges": {
+    "Value": 5
+  },
+  "ScourgeArrowUseLeftClick": false,
+  "ScourgeArrowWaitForInfused": true,
+  "MiscSettings": null,
+  "RequireMinMonsterCount": false,
+  "NearbyMonsterCount": {
+    "Value": 1
+  },
+  "NearbyMonsterMaxDistance": {
+    "Value": 500
+  },
+  "DisableInHideout": true,
+  "Debug": false,
+  "SilenceErrors": false
+}

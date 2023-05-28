@@ -1,0 +1,324 @@
+{
+  "Enable": true,
+  "IgnoreUiElementVisibility": false,
+  "ShowInTown": false,
+  "ShowInHideout": true,
+  "EnableAbsolutePlayerBarPositioning": false,
+  "PlayerBarPosition": {
+    "Value": {
+      "X": 1000.0,
+      "Y": 1000.0
+    }
+  },
+  "SmoothingFactor": {
+    "Value": 0.0
+  },
+  "PlayerSmoothingFactor": {
+    "Value": 1.0
+  },
+  "GlobalZOffset": {
+    "Value": 0
+  },
+  "PlayerZOffset": {
+    "Value": 0
+  },
+  "PlaceBarRelativeToGroundLevel": false,
+  "PlacePlayerBarRelativeToGroundLevel": false,
+  "DrawDistanceLimit": {
+    "Value": 133
+  },
+  "MultiThreading": false,
+  "MinimumEntitiesForMultithreading": {
+    "Value": 10
+  },
+  "ShowMinionOnlyWhenBelowHp": {
+    "Value": 50
+  },
+  "DpsEstimateDuration": {
+    "Value": 2000
+  },
+  "CullPercent": {
+    "Value": 10
+  },
+  "CombineLifeAndEs": true,
+  "EsBarHeight": {
+    "Value": 0.33333334
+  },
+  "CombatDamageColor": "ff0000ff",
+  "CombatHealColor": "008000ff",
+  "ResizeBarsToFitText": true,
+  "UseShadedTexture": true,
+  "Self": {
+    "Show": true,
+    "Width": {
+      "Value": 100.0
+    },
+    "Height": {
+      "Value": 20.0
+    },
+    "OutlineThickness": {
+      "Value": 1
+    },
+    "HealthSegments": {
+      "Value": 1
+    },
+    "HealthSegmentHeight": {
+      "Value": 0.5
+    },
+    "LifeColor": "008000ff",
+    "EsColor": "00ffffff",
+    "CullableColor": "ffffffff",
+    "BackgroundColor": "000000ff",
+    "OutlineColor": "00000000",
+    "TextColor": "ffffffff",
+    "TextBackground": "000000ff",
+    "HealthSegmentColor": "000000ff",
+    "TextPosition": {
+      "Value": {
+        "X": 0.0,
+        "Y": -1.0
+      }
+    },
+    "ShowDps": false,
+    "HoverOpacity": {
+      "Value": 1.0
+    },
+    "TextFormat": {
+      "Value": "{percent}%"
+    }
+  },
+  "UniqueEnemy": {
+    "Show": true,
+    "Width": {
+      "Value": 200.0
+    },
+    "Height": {
+      "Value": 25.0
+    },
+    "OutlineThickness": {
+      "Value": 1
+    },
+    "HealthSegments": {
+      "Value": 1
+    },
+    "HealthSegmentHeight": {
+      "Value": 0.5
+    },
+    "LifeColor": "ffa500ff",
+    "EsColor": "00ffffff",
+    "CullableColor": "ffffffff",
+    "BackgroundColor": "000000ff",
+    "OutlineColor": "ffa500ff",
+    "TextColor": "66ff99ff",
+    "TextBackground": "000000ff",
+    "HealthSegmentColor": "000000ff",
+    "TextPosition": {
+      "Value": {
+        "X": 0.0,
+        "Y": -1.0
+      }
+    },
+    "ShowDps": true,
+    "HoverOpacity": {
+      "Value": 1.0
+    },
+    "TextFormat": {
+      "Value": "{percent}% {current}/{total}"
+    }
+  },
+  "RareEnemy": {
+    "Show": true,
+    "Width": {
+      "Value": 125.0
+    },
+    "Height": {
+      "Value": 20.0
+    },
+    "OutlineThickness": {
+      "Value": 1
+    },
+    "HealthSegments": {
+      "Value": 1
+    },
+    "HealthSegmentHeight": {
+      "Value": 0.5
+    },
+    "LifeColor": "f4ff19ff",
+    "EsColor": "00ffffff",
+    "CullableColor": "ffffffff",
+    "BackgroundColor": "000000ff",
+    "OutlineColor": "f4ff19ff",
+    "TextColor": "66ff99ff",
+    "TextBackground": "000000ff",
+    "HealthSegmentColor": "000000ff",
+    "TextPosition": {
+      "Value": {
+        "X": 0.0,
+        "Y": -1.0
+      }
+    },
+    "ShowDps": true,
+    "HoverOpacity": {
+      "Value": 1.0
+    },
+    "TextFormat": {
+      "Value": "{percent}% {current}/{total}"
+    }
+  },
+  "MagicEnemy": {
+    "Show": true,
+    "Width": {
+      "Value": 100.0
+    },
+    "Height": {
+      "Value": 15.0
+    },
+    "OutlineThickness": {
+      "Value": 1
+    },
+    "HealthSegments": {
+      "Value": 1
+    },
+    "HealthSegmentHeight": {
+      "Value": 0.5
+    },
+    "LifeColor": "8888ffff",
+    "EsColor": "00ffffff",
+    "CullableColor": "ffffffff",
+    "BackgroundColor": "000000ff",
+    "OutlineColor": "8888ffff",
+    "TextColor": "66ff99ff",
+    "TextBackground": "000000ff",
+    "HealthSegmentColor": "000000ff",
+    "TextPosition": {
+      "Value": {
+        "X": 0.0,
+        "Y": -1.0
+      }
+    },
+    "ShowDps": false,
+    "HoverOpacity": {
+      "Value": 1.0
+    },
+    "TextFormat": {
+      "Value": ""
+    }
+  },
+  "NormalEnemy": {
+    "Show": true,
+    "Width": {
+      "Value": 75.0
+    },
+    "Height": {
+      "Value": 10.0
+    },
+    "OutlineThickness": {
+      "Value": 1
+    },
+    "HealthSegments": {
+      "Value": 1
+    },
+    "HealthSegmentHeight": {
+      "Value": 0.5
+    },
+    "LifeColor": "ff0000ff",
+    "EsColor": "00ffffff",
+    "CullableColor": "ffffffff",
+    "BackgroundColor": "000000ff",
+    "OutlineColor": "00000000",
+    "TextColor": "66ff66ff",
+    "TextBackground": "000000ff",
+    "HealthSegmentColor": "000000ff",
+    "TextPosition": {
+      "Value": {
+        "X": 0.0,
+        "Y": -1.0
+      }
+    },
+    "ShowDps": false,
+    "HoverOpacity": {
+      "Value": 1.0
+    },
+    "TextFormat": {
+      "Value": ""
+    }
+  },
+  "Minions": {
+    "Show": true,
+    "Width": {
+      "Value": 100.0
+    },
+    "Height": {
+      "Value": 20.0
+    },
+    "OutlineThickness": {
+      "Value": 1
+    },
+    "HealthSegments": {
+      "Value": 1
+    },
+    "HealthSegmentHeight": {
+      "Value": 0.5
+    },
+    "LifeColor": "90ee90ff",
+    "EsColor": "00ffffff",
+    "CullableColor": "ffffffff",
+    "BackgroundColor": "000000ff",
+    "OutlineColor": "00000000",
+    "TextColor": "ffffffff",
+    "TextBackground": "000000ff",
+    "HealthSegmentColor": "000000ff",
+    "TextPosition": {
+      "Value": {
+        "X": 0.0,
+        "Y": -1.0
+      }
+    },
+    "ShowDps": false,
+    "HoverOpacity": {
+      "Value": 1.0
+    },
+    "TextFormat": {
+      "Value": ""
+    }
+  },
+  "Players": {
+    "Show": true,
+    "Width": {
+      "Value": 100.0
+    },
+    "Height": {
+      "Value": 20.0
+    },
+    "OutlineThickness": {
+      "Value": 1
+    },
+    "HealthSegments": {
+      "Value": 1
+    },
+    "HealthSegmentHeight": {
+      "Value": 0.5
+    },
+    "LifeColor": "008000ff",
+    "EsColor": "00ffffff",
+    "CullableColor": "ffffffff",
+    "BackgroundColor": "000000ff",
+    "OutlineColor": "00000000",
+    "TextColor": "ffffffff",
+    "TextBackground": "000000ff",
+    "HealthSegmentColor": "000000ff",
+    "TextPosition": {
+      "Value": {
+        "X": 0.0,
+        "Y": -1.0
+      }
+    },
+    "ShowDps": false,
+    "HoverOpacity": {
+      "Value": 1.0
+    },
+    "TextFormat": {
+      "Value": "{percent}%"
+    }
+  }
+}
